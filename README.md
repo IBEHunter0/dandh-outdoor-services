@@ -17,7 +17,7 @@ We’re a small team committed to **reliable, affordable, and friendly service**
 ## 💻 Website
 
 Check out our live site:  
-🔗 [https://ibehunter0.github.io/dandh-outdoor-services/](https://ibehunter0.github.io/dandh-outdoor-services/)
+🔗 [https://hilarious-sopapillas-414d51.netlify.app/)
 
 ## 📱 Contact
 
