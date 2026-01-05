@@ -1,53 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>D&H Services | Home</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>D&H Services</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f6fff8;
+      color: #2e4735;
+    }
+
+    header {
+      text-align: center;
+      padding: 30px 20px;
+      background-color: #4CAF50;
+      color: white;
+    }
+
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    nav a {
+      margin: 0 12px;
+      color: #1c5c41;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 45px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    h1, h2, h3 {
+      color: #1c5c41;
+    }
+
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      margin-top: 35px;
+    }
+
+    .service-link {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .service-card {
+      background: #fff;
+      border: 2px solid #b4e1c1;
+      border-radius: 12px;
+      width: 290px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .service-card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      padding: 50px 20px;
+      margin-top: 70px;
+    }
+
+    footer hr {
+      border: 1px solid rgba(255,255,255,0.4);
+      margin: 30px 0;
+    }
+
+    footer a {
+      color: white;
+      text-decoration: underline;
+    }
+
+  </style>
 </head>
 <body>
   <header>
-    <h1>D&H Outdoor Services</h1>
-    <p style="text-align:center;">Basic yard work and cleanup around Newmarket — small crew, hands-on work.</p>
+    <h1>D&H Services</h1>
+    <p>Small local crew doing simple yard work and cleanups in Newmarket</p>
   </header>
 
+  <nav>
+    <a href="support.html">Support</a>
+    <a href="#contact-info">Contact</a>
+  </nav>
+
   <section>
-    <h2>Our Services</h2>
+    <h2>What we actually do</h2>
     <div class="card-container">
-      <a href="mow-rake.html">
+      <a href="mow-rake.html" class="service-link">
         <div class="service-card">
           <h3>Mow + Rake</h3>
           <p><strong>$30–$40</strong></p>
-          <p>We mow the lawn and rake everything up in one visit. Perfect for keeping your yard tidy.</p>
+          <p>We mow the lawn and rake everything up. Practical cleanup only.</p>
         </div>
       </a>
 
-      <a href="garage-cleanup.html">
+      <a href="garage-cleanup.html" class="service-link">
         <div class="service-card">
           <h3>Garage or Shed Cleanup</h3>
           <p><strong>$25–$50</strong></p>
-          <p>We clear out garages or sheds. You decide what stays and what goes.</p>
+          <p>We help clear garages or sheds so they’re usable again.</p>
         </div>
       </a>
 
-      <a href="trim-leaves.html">
+      <a href="trim-bushes.html" class="service-link">
         <div class="service-card">
           <h3>Trim Bushes + Bag Leaves</h3>
           <p><strong>$20–$30</strong></p>
-          <p>Basic trimming and leaf bagging to clean things up. Practical cleanup only.</p>
+          <p>Basic trimming and leaf bagging to clean things up.</p>
         </div>
       </a>
 
-      <a href="watering-weeding.html">
+      <a href="watering-weeding.html" class="service-link">
         <div class="service-card">
           <h3>Watering + Weed Pulling</h3>
           <p><strong>$10–$20</strong></p>
-          <p>Garden upkeep when weeds start getting out of control.</p>
+          <p>Simple upkeep for gardens or front yards.</p>
         </div>
       </a>
 
-      <a href="furniture-cleanup.html">
+      <a href="furniture-cleanup.html" class="service-link">
         <div class="service-card">
           <h3>Backyard Furniture Cleanup</h3>
           <p><strong>$15–$25</strong></p>
@@ -57,8 +145,17 @@
     </div>
   </section>
 
+  <section id="contact-info">
+    <h2>Contact & scheduling</h2>
+    <p>Text us at: <a href="sms:+14376962013">+1 (437) 696-2013</a> (text only)</p>
+    <p>Email: <a href="mailto:ratinosmani@gmail.com">ratinosmani@gmail.com</a></p>
+    <p>We work mostly on weekends and after school hours in Newmarket, ON.</p>
+  </section>
+
   <footer>
-    <p>© 2025 D&H Services — Newmarket, ON | Small local crew</p>
+    <p>We bring our own basic equipment and aim to leave everything cleaner than we found it.</p>
+    <hr>
+    <p>© 2025 D&H Services — Newmarket, ON</p>
   </footer>
 </body>
 </html>
