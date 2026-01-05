@@ -78,169 +78,119 @@
 </style>
 
 <section>
-  <h1>D&H Services</h1>
+  <h1>D&H Services — Support</h1>
   <p style="text-align:center;">
-    We’re a small, young crew doing basic yard work and cleanups around Newmarket.
-    This isn’t a big landscaping company — it’s just us doing hands-on work for people who need help keeping things tidy.
-  </p>
-
-  <p style="text-align:center;">
-    If you need something simple done and don’t want to overpay, that’s where we come in.
+    This page explains how things work, what we offer, and how to reach us.
+    If you’re unsure about anything, this is the place to check.
   </p>
 </section>
 
 <section>
-  <h2>What we actually do</h2>
+  <h2>Who we are</h2>
   <p>
-    We focus on straightforward jobs that make a real difference without getting complicated.
-    No contracts, no pressure, no upselling.
+    D&H Services is a small, youth-run crew based in Newmarket.
+    We do basic yard work and cleanups for people who want help without dealing
+    with big companies or long-term contracts.
+  </p>
+
+  <p>
+    We keep things simple, honest, and straightforward.
+    If something’s not a good fit for us, we’ll say so.
+  </p>
+</section>
+
+<section id="services-info">
+  <h2>What we help with</h2>
+  <p>
+    These are the kinds of jobs we usually take on.
+    Everything is basic cleanup or maintenance — nothing fancy.
   </p>
 
   <div class="card-container">
     <div class="service-card">
       <h3>Mow + Rake</h3>
       <p><strong>$30–$40</strong></p>
-      <p>
-        We mow the lawn and rake everything up in one visit.
-        Good for regular maintenance or when things start getting messy.
-      </p>
+      <p>Grass cutting and cleanup in one visit.</p>
     </div>
 
     <div class="service-card">
       <h3>Garage or Shed Cleanup</h3>
       <p><strong>$25–$50</strong></p>
-      <p>
-        We help clear out garages or sheds so they’re usable again.
-        You tell us what stays and what goes.
-      </p>
+      <p>Clearing space and organizing what you want to keep.</p>
     </div>
 
     <div class="service-card">
       <h3>Trim Bushes + Bag Leaves</h3>
       <p><strong>$20–$30</strong></p>
-      <p>
-        Basic trimming and leaf bagging to clean things up.
-        Not decorative landscaping — just practical cleanup.
-      </p>
+      <p>Basic trimming and leaf cleanup.</p>
     </div>
 
     <div class="service-card">
       <h3>Watering + Weed Pulling</h3>
       <p><strong>$10–$20</strong></p>
-      <p>
-        Simple upkeep for gardens or front yards when weeds start getting out of control.
-      </p>
+      <p>Simple upkeep for gardens and front yards.</p>
     </div>
 
     <div class="service-card">
       <h3>Backyard Furniture Cleanup</h3>
       <p><strong>$15–$25</strong></p>
-      <p>
-        We clean off and organize outdoor furniture so it’s usable again.
-      </p>
+      <p>Cleaning and organizing outdoor furniture.</p>
     </div>
   </div>
 </section>
 
 <section>
-  <h2>How it works</h2>
-  <p>
-    We try to keep everything simple.
-  </p>
+  <h2>How booking works</h2>
   <ul>
-    <li>You text us what you need done</li>
-    <li>We ask a few questions if needed</li>
-    <li>We give you a rough price range</li>
-    <li>We schedule a time that works</li>
+    <li>Text us what you want done</li>
+    <li>We ask a few quick questions if needed</li>
+    <li>We give you a price range</li>
+    <li>We agree on a time</li>
   </ul>
 
   <p>
-    Prices depend on yard size, how much work there is, and how long it takes.
-    If something ends up being more work than expected, we’ll tell you before continuing.
-  </p>
-</section>
-
-<section>
-  <h2>Who we’re good for</h2>
-  <p>
-    D&H Services is a good fit if:
-  </p>
-  <ul>
-    <li>You need basic yard work or cleanup</li>
-    <li>You don’t want a long-term contract</li>
-    <li>You’re okay with a small local crew doing the work</li>
-    <li>You just want things cleaner, not redesigned</li>
-  </ul>
-
-  <p>
-    If you’re looking for full landscaping designs, stonework, or large construction jobs,
-    we’re probably not the right fit — and that’s okay.
+    If a job turns out to be more work than expected,
+    we’ll talk to you before doing anything extra.
   </p>
 </section>
 
 <section id="contact-info">
-  <h2>Contact & scheduling</h2>
+  <h2>Contact</h2>
   <p>
-    We’re based in <strong>Newmarket, Ontario</strong> and currently only work in this area.
+    We work in <strong>Newmarket, Ontario</strong> only.
   </p>
 
   <p>
-    Most jobs are done on weekends or after school hours.
-    We’ll always try to work around your schedule when possible.
+    Most jobs are done on weekends or after school.
   </p>
 
   <p>
-    The easiest way to reach us is by text.
+    <strong>Text only:</strong>
+    <a href="sms:+14376962013">+1 (437) 696-2013</a>
   </p>
 
   <p>
-    <strong>Text only:</strong> <a href="sms:+14376962013">+1 (437) 696-2013</a>
-  </p>
-
-  <p>
-    You can also email us if you prefer:
+    Email:
     <a href="mailto:ratinosmani@gmail.com">ratinosmani@gmail.com</a>
   </p>
 </section>
 
 <footer>
-  <h3>Extra info</h3>
-
+  <h4>Extra notes</h4>
   <p>
-    We bring our own basic equipment including mowers, trimmers, rakes, and bags.
-    If a job requires something specific, we’ll let you know ahead of time.
-  </p>
-
-  <p>
-    We always aim to leave the area cleaner than we found it.
-    If something doesn’t look right when we’re done, just tell us.
-  </p>
-
-  <hr>
-
-  <h4>Availability</h4>
-  <p>
-    We don’t have fixed hours.
-    Just text us and we’ll let you know when we’re free.
-  </p>
-
-  <hr>
-
-  <h4>Socials</h4>
-  <p>
-    We’re planning to post our work on Instagram and TikTok soon.
-    Nothing fancy — just before and after clips.
+    We bring our own basic equipment.
+    If something special is needed, we’ll let you know first.
   </p>
 
   <p style="font-size:14px; margin-top:30px;">
-    © 2025 D&H Services — Newmarket, ON  
-    <br>
+    © 2025 D&H Services — Newmarket, ON<br>
     Run by a small local crew
   </p>
 </footer>
 
 <nav>
-  <a href="#services">Services</a> |
+  <a href="index.html">Home</a> |
+  <a href="#services-info">Info</a> |
   <a href="#contact-info">Contact</a>
 </nav>
 
